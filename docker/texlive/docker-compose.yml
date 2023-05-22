@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+
+  texlive:
+    container_name: texlive
+    image: mirisbowring/texlive_ctan_full:2019
+    volumes:
+      - ./../../sources:/app/
+      - ./build/:/build/
+      - ./temp/texlive/data/:/data/
+      - ./temp/texlive/temp/:/temp/
+    command: >
+              bash -c "
+                #rm -rfv /temp/*.pdf
+                rm -rfv /build/*.pdf
+                cd /app
+                latexmk -pdf -output-directory=/temp/ DP.PO4.190333-09_*_00.tex
+                latexmk -pdf -output-directory=/temp/ DP.PO4.190333-09_81_00.bundle.tex
+                cp /temp/*.pdf /build/"

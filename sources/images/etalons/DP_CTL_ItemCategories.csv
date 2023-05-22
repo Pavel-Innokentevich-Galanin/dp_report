@@ -1,0 +1,18 @@
+dp_id,dp_name,dp_urlSegment,dp_photoUrl,dp_itemBrandId,dp_seoKeywords,dp_seoDescription,dp_isHidden
+1,Аксессуары,dp-accessories,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/accessories/11202.png,1,-,Продукция DE-PA Electric,false
+2,Английская серия,dp-british-system-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/british-system-series/41400.png,1,-,Продукция DE-PA Electric,false
+3,Кабельные каналы,dp-cable-trunking,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/cable-trunking/05001212.png,1,-,Продукция DE-PA Electric,false
+4,Коробки под автомать,dp-fuse-boxes,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/fuse-boxes/91036-2.png,1,-,Продукция DE-PA Electric,false
+5,Глоп (потолочные светильники),dp-glop,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/glop/95015-4-4.jpg,1,-,Продукция DE-PA Electric,false
+6,Разветлители. Тройники,dp-group-socket-and-plug,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/group-socket-and-plug/10004.png,1,-,Продукция DE-PA Electric,false
+7,IP44 вагозащищенных накладных изделий,dp-ip44-moisture-proof-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/ip44-moisture-proof-series/81101.png,1,-,Продукция DE-PA Electric,false
+8,Серия Жемчужина,dp-pearl-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/pearl-series/12100.png,1,-,Продукция DE-PA Electric,false
+9,Потолочные светильники,dp-plastic-lighting-fixtures,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/plastic-lighting-fixtures/95002.png,1,-,Продукция DE-PA Electric,false
+10,Резиновая серия,dp-rubber-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/rubber-series/338027.png,1,-,Продукция DE-PA Electric,false
+11,Серия Звезда,dp-star-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/star-series/961100.png,1,-,Продукция DE-PA Electric,false
+12,Серия розеток накладных с заземлением,dp-surfase-mounted-socket-series,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/surfase-mounted-socket-series/81301.png,1,-,Продукция DE-PA Electric,false
+13,Влагозащищеные потолочные светильники,dp-waterproof,https://ooodepa.github.io/ooodepa_imgs/products/de-pa-electric/waterproof/95021-2.jpg,1,-,Продукция DE-PA Electric,false
+14,MONO Electric ECO,mono-eco,https://ooodepa.github.io/ooodepa_imgs/products/mono-electric/101-010201-102.png,2,-,Продукция MONO Electric,false
+15,MONO Electric DESPINA,mono-despina,https://ooodepa.github.io/ooodepa_imgs/products/mono-electric/102-190021-118.jpg,2,-,Продукция MONO Electric,false
+16,MONO Electric Monte,mono-monte,https://ooodepa.github.io/ooodepa_imgs/products/mono-electric/105-010207-118.jpg,2,-,Продукция MONO Electric,false
+17,"Листы EVA, EPDM, полиэтилена",eva,https://ooodepa.github.io/ooodepa_imgs/products/eva/eva-sheets.jpg,3,-,-,false

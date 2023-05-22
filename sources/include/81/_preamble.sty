@@ -1,0 +1,30 @@
+\usepackage{config/env}
+% \usepackage{config/env.practice}
+\usepackage{config/env.diplom}
+\usepackage{styles/listing}
+\usepackage{styles/lists}
+\usepackage{styles/SectionMargins}
+\usepackage{styles/table}
+\usepackage{styles/TableOfContent}
+\usepackage{styles/url}
+\usepackage{styles/fancyStyleWithCodeOnTop}
+\usepackage{styles/bibliography}
+
+\def \envCode {ДП.\envDiplomStudentGroupName\envDiplomStudentGroupNumber.\envDiplomStudentCard-\envDiplomNumber~81~\envDiplomVersion}
+\def \envDiplomDocumentTitle {ПОЯСНИТЕЛЬНАЯ ЗАПИСКА}
+
+\ESKDletter{}{Д}{П}
+\ESKDcolumnI {\ESKDfontIII \envDiplomTitle \\ \envDiplomDocumentTitle} % наименование изделия/документа
+\ESKDsignature {\envCode} % обозначение документа
+\ESKDcolumnIX {\ESKDfontV \envDiplomEnterprice} % наименование или различительный индекс предприятия
+\ESKDcolumnXIfI {\envDiplomStudentSurname} % Разраб.
+\ESKDcolumnXIfII {\envDiplomTeacherSurname} % Пров.
+\ESKDcolumnXIfIV {\envDiplomEconomicSurname} % (пустая строка после Пров. и перед Н. контр.)
+\ESKDcolumnXIfV {\envDiplomEspdSurname} % Н. контр.
+\ESKDcolumnXIfVI {\envDiplomHeadCathedraSurname} % Утв.
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\numberwithin{equation}{section}
+
+\usepackage[figure,table]{totalcount}

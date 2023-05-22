@@ -1,0 +1,4 @@
+dp_id,dp_name,dp_sortingIndex,dp_photoUrl,dp_urlSegment,dp_seoKeywords,dp_seoDescription,dp_isHidden
+1,DE-PA Electric,10,https://raw.githubusercontent.com/ooodepa/ooodepa_imgs/gh-pages/productCategories/de-pa-electric-logo.png,de-pa-electric,-,Продукция DE-PA Electric,false
+2,MONO Electric,20,https://raw.githubusercontent.com/ooodepa/ooodepa_imgs/gh-pages/productCategories/mono-electric-logo.png,mono-electric,-,Продукция MONO Electric,false
+3,"Листы EVA, EPDM, полиэтилена",30,https://raw.githubusercontent.com/ooodepa/ooodepa_imgs/gh-pages/products/eva/eva-sheets.jpg,eva,-,-,false

@@ -1,0 +1,5 @@
+dp_id,dp_name,dp_date,dp_urlSegment,dp_photoUrl,dp_text,dp_seoKeywords,dp_seoDescription
+axxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx1,Каталоги,2023-04-05T15:00:00.000Z,catalogs,https://site.com/photo.url,-,-,"Архив каталогов ООО ""ДЕ-ПА"""
+axxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,Сертификаты,2023-04-05T15:00:00.000Z,certificates,https://site.com/photo.url,-,-,"Архив сертификатов ООО ""ДЕ-ПА"""
+axxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx3,Прайсы,2023-04-05T15:00:00.000Z,prices,https://site.com/photo.url,-,-,"Архив прайсов ООО ""ДЕ-ПА"""
+axxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx4,Контакты,2023-04-07T14:55:00.000Z,contacts,https://site.com/photo.url,-,-,Контакты

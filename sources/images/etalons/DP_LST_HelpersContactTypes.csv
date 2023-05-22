@@ -1,0 +1,18 @@
+dp_id,dp_helperId,dp_contactTypeId,dp_value,dp_isHidden
+1,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx1,1,+375-162-11-22-33 (BY),false
+2,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,1,+90-111-222-33-44 (TR),false
+3,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,1,+375-33-111-22-33 (BY),false
+4,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,2,info@site.by,false
+5,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,3,901112223344,false
+6,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,4,901112223344,false
+7,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2,6,skype_login_1,false
+8,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx3,1,+375-33-222-33-44 (BY),false
+9,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx3,2,zamdirector@site.by,false
+10,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx3,6,skype_login_2,false
+11,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx4,1,+375-33-333-44-55 (BY),true
+12,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx4,1,+375-29-444-55-66 (BY),true
+13,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx4,2,law@site.by,true
+14,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx5,1,+375-33-555-66-77 (BY),true
+15,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx6,1,+90-222-333-44-55 (TR),false
+16,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx6,1,+90-333-444-55-66 (TR),false
+17,hxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx6,2,user@site.com.tr,false
