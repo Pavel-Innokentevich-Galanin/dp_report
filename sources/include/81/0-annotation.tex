@@ -1,6 +1,11 @@
 \ESKDthisStyle{empty}
 
-\pageref{LastPage}~c., \totalfigures~рис., \totaltables~табл.
+% \pageref{LastPage}~c., \totalfigures~рис., \totaltables~табл.
+% \ESKDtotal{page}~с., \ESKDtotal{figure}~рис., \ESKDtotal{table}~табл., \ESKDtotal{bibitem}
+\pageref{LastPage}~c.,
+\totalfigures~рис.,
+\totaltables~табл.,
+\ESKDtotal{bibitem}~ист.~лит.
 
 \hspace{0pt}
 
@@ -21,18 +26,17 @@
 
 \vfill
 
-\begin{tabular}{p{3cm}p{12cm}}
-    \textbf{Составитель}: & \textbf{Галанин П. И.},
+\begin{tabular}{p{3.2cm}p{12cm}}
+    Составитель:
+    & \envDiplomStudentSurname~\envDiplomStudentInitials,
     студент группы ПО-4,
     факультета электронно информационных систем,
     спецальности <<Программное обеспечение информационных технологий>> (1-40 01 01),
     учереждения образования <<Брестский государственный технический университет>>
-\end{tabular}
+    \\
 
-\vfill
-
-\begin{tabular}{p{3cm}p{12cm}}
-    \textbf{Рецензент}: & \textbf{Махнист Л. П.},
+    \envDiplomRecendentInfo:
+    & \envDiplomRecendentSurname~\envDiplomRecendentInitials,
     заведующий кафедры высшей математики,
     кандидат технических наук,
     доцент,
@@ -41,9 +45,6 @@
 
 \vfill
 
-\begin{flushright}
-    \begin{minipage}[t]{.85\textwidth}
-        Учереждение образования\\
-        <<Брестский государственный технический университет>>, 2023
-    \end{minipage}
-\end{flushright}
+Учереждение образования
+    
+<<Брестский государственный технический университет>>, \ESKDtheYear
