@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-06-02T16:43:01.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="uJ5MIycW9Ebvzydsf85S" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2023-06-04T21:00:55.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="VA7NEK7A7PVgDu4WbgXs" version="21.2.8" type="device">
   <diagram name="Page-1" id="mLQ_XVHuGvEOCb3nRhEn">
-    <mxGraphModel dx="2026" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="_mmpPYD25XxmWE7m6DI2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="KvnRA5Yr2zpOSTINbMvu-45" target="KvnRA5Yr2zpOSTINbMvu-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_4HLBdeWDB0E14U4nkhD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="KvnRA5Yr2zpOSTINbMvu-45" target="KvnRA5Yr2zpOSTINbMvu-46">
+        <mxCell id="_4HLBdeWDB0E14U4nkhD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="KvnRA5Yr2zpOSTINbMvu-45" target="KvnRA5Yr2zpOSTINbMvu-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KvnRA5Yr2zpOSTINbMvu-45" value="Авторизован" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -146,7 +146,7 @@
         <mxCell id="3LMkU-X2zRB7gaWDaqeF-2" value="case AccountTab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="92.52" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3LMkU-X2zRB7gaWDaqeF-4" value="Xx" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipH=1;flipV=1;" parent="1" vertex="1">
+        <mxCell id="3LMkU-X2zRB7gaWDaqeF-4" value="Конец цикла" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="682" y="840" width="118.11" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="3LMkU-X2zRB7gaWDaqeF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="3LMkU-X2zRB7gaWDaqeF-7" target="3LMkU-X2zRB7gaWDaqeF-4" edge="1">
@@ -299,7 +299,7 @@
         <mxCell id="3LMkU-X2zRB7gaWDaqeF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="3LMkU-X2zRB7gaWDaqeF-48" target="3LMkU-X2zRB7gaWDaqeF-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LMkU-X2zRB7gaWDaqeF-48" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipH=1;flipV=1;" parent="1" vertex="1">
+        <mxCell id="3LMkU-X2zRB7gaWDaqeF-48" value="Конец цикла" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="42.52" y="1617.3100000000002" width="118.11" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="3LMkU-X2zRB7gaWDaqeF-49" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
