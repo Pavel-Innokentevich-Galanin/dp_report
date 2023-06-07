@@ -1,12 +1,26 @@
-\documentclass[
-  14pt, % Устанавливает размер шрифта документа (12pt, 14pt)
-  a4paper, % Лист А4
-  simple, % Тоже самое что nocolumnsxix, nocolumnxxxi и nocolumnxxxii
-  floatsection % Счётчик рисунков обнуляется каждую главу и нумеруется с номером главы, например, Рисунок 2.1
-]{eskdtext}
+\documentclass[a1paper, portrait, nocolumnxxxi]{eskdgraph}
 
-\usepackage{include/appApi/_preamble}
+\usepackage{include/94/_preamble}
 
 \begin{document}
-  \input{include/appApi/_body.tex}
+    \ESKDstyle{formII}
+
+    \includegraphics[height=81cm]
+    {images/94/a1-1.png}
+
+    \newpage
+    \includegraphics[height=81cm]
+    {images/94/a1-2.png}
+
+    \newpage
+    \includegraphics[width=55cm]
+    {images/94/a1-3.png}
+
+    \newpage
+    \includegraphics[height=78cm]
+    {images/94/Users__createUser.png}
+
+    \newpage
+    \includegraphics[width=55cm]
+    {images/94/Users__updatePassword.png}
 \end{document}

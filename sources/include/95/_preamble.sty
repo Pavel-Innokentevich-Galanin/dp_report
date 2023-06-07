@@ -1,15 +1,15 @@
 \usepackage{config/env}
 \usepackage{config/env.diplom}
 
-\def \envCode {ДП.\envDiplomStudentGroupName\envDiplomStudentGroupNumber.\envDiplomStudentCard-\envDiplomNumber~96~\envDiplomVersion}
-\def \envDiplomDocumentTitle {ПОСТАНОВКА ЗАДАЧИ}
+\def \envCode {ДП.\envDiplomStudentGroupName\envDiplomStudentGroupNumber.\envDiplomStudentCard-\envDiplomNumber~95~\envDiplomVersion}
+\def \envDiplomDocumentTitle {РЕЗУЛЬТАТЫ ИСПЫТАНИЙ}
 
 \ESKDletter{}{Д}{П}
 \ESKDcolumnI {\ESKDfontIII \envDiplomTitle \\ \envDiplomDocumentTitle} % наименование изделия/документа
 \ESKDsignature {\envCode} % обозначение документа
 \ESKDcolumnIX {\ESKDfontV \envDiplomEnterprice} % наименование или различительный индекс предприятия
-\ESKDcolumnXIfI {\envDiplomStudentSurname} % Разраб.
-\ESKDcolumnXIfII {\envDiplomTeacherSurname} % Пров.
+\ESKDcolumnXIfI {\ESKDfontII\envDiplomStudentSurname~\envDiplomStudentInitials} % Разраб.
+\ESKDcolumnXIfII {\ESKDfontII \envDiplomTeacherSurname~\envDiplomTeacherInitials} % Пров.
 \ESKDcolumnXIfIV {} % (пустая строка после Пров. и перед Н. контр.)
-\ESKDcolumnXIfV {\envDiplomEspdSurname} % Н. контр.
-\ESKDcolumnXIfVI {\envDiplomHeadCathedraSurname} % Утв.
+\ESKDcolumnXIfV {\ESKDfontII \envDiplomEspdSurname~\envDiplomRecendentInitials} % Н. контр.
+\ESKDcolumnXIfVI {\ESKDfontII \envDiplomHeadCathedraSurname~\envDiplomHeadDepartmentInitials} % Утв.
