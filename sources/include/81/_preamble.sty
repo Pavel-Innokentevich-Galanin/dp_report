@@ -10,6 +10,7 @@
 \usepackage{styles/fancyStyleWithCodeOnTop}
 \usepackage{styles/bibliography}
 \usepackage{eskdtotal}
+\usepackage{rotating}
 
 \def \envCode {ДП.\envDiplomStudentGroupName\envDiplomStudentGroupNumber.\envDiplomStudentCard-\envDiplomNumber~81~\envDiplomVersion}
 \def \envDiplomDocumentTitle {ПОЯСНИТЕЛЬНАЯ ЗАПИСКА}
@@ -21,7 +22,7 @@
 \ESKDcolumnXIfI {\ESKDfontII\envDiplomStudentSurname~\envDiplomStudentInitials} % Разраб.
 \ESKDcolumnXIfII {\ESKDfontII \envDiplomTeacherSurname~\envDiplomTeacherInitials} % Пров.
 \ESKDcolumnXIfIV {} % (пустая строка после Пров. и перед Н. контр.)
-\ESKDcolumnXIfV {\ESKDfontII \envDiplomEspdSurname~\envDiplomRecendentInitials} % Н. контр.
+\ESKDcolumnXIfV {\ESKDfontII \envDiplomEspdSurname~\envDiplomEspdInitials} % Н. контр.
 \ESKDcolumnXIfVI {\ESKDfontII \envDiplomHeadCathedraSurname~\envDiplomHeadDepartmentInitials} % Утв.
 
 \usepackage{amsmath}

@@ -1,9 +1,11 @@
 \input{include/12/0-title-page.tex}
 
 \newpage
-\ESKDstyle{title}
-\thispagestyle{plain}
-\pagestyle{plain}
+\section*{АННОТАЦИЯ}
+\input{include/12/0-annotation.tex}
+
+\newpage
+\ESKDthisStyle{formII}
 
 \tableofcontents
 \noindent
@@ -18,9 +20,14 @@
     ./dp\_website/          & - исходный код сайта (NextTS) \\
 \end{tabular}
 
-\begin{table}[p]
+\newpage
+\ESKDthisStyle{empty}
+\thispagestyle{plain}
+\pagestyle{plain}
+
+\begin{figure}[!p]
     \centering
     
     \includegraphics[width=12.5cm]
     {images/12/disk.png}
-\end{table}
+\end{figure}
